@@ -37,9 +37,9 @@ from agno.agent import Agent
 from agno.models.groq import Groq
 from dotenv import load_dotenv
 
-from agno.tools.file import FileTools
-from agno.tools.duckduckgo import DuckDuckGoTools
-from agno.tools.local_file_system import LocalFileSystemTools
+# from agno.tools.file import FileTools
+# from agno.tools.duckduckgo import DuckDuckGoTools
+# from agno.tools.local_file_system import LocalFileSystemTools
 from agno.tools.youtube import YouTubeTools
 
 
